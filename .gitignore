@@ -25,3 +25,4 @@ hs_err_pid*
 #무시
 node.js-mysql/lib/db.js
 node.js-mysql/nodejs/mysql.js
+Nodejs-express/password.js
