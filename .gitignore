@@ -26,3 +26,4 @@ hs_err_pid*
 node.js-mysql/lib/db.js
 node.js-mysql/nodejs/mysql.js
 Nodejs-express/password.js
+Nodejs-dexpress/routes/auth.js
